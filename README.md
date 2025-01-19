@@ -3,9 +3,10 @@
 # CyberedgeImage
 
 项目依赖： Emgu.CV, Emgu.CV.Bitmp, fo-dicom, Newtonsoft.Json
-框架 .NetCore 8
 
- 
+框架： .NetCore 8
+
+功能：图像处理
 
 
 
