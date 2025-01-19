@@ -2,7 +2,7 @@
 
 # CyberedgeImage
 
-CyberedgeImage is a C# image processing  program. Downloadable distributions are available for Windows. It can display, edit, analyze, process, save and print 8–bit, 16–bit and 32–bit images. It can read many image formats including TIFF, GIF, JPEG, PNG, BMP and DICOM. 
+CyberedgeImage is a C# image processing  program. Downloadable distributions are available for Windows. It can display, edit, analyze, process, save and print 8–bit, 16–bit and 32–bit images. It can read many image formats including TIFF, GIF, JPEG, PNG, BMP and DICOM. It does geometric transformations such as scaling, rotation and flips. Image can be zoomed up to 32 : 1 and down to 1 : 32. All processing functions are available at any magnification factor. The program supports any number of windows (images) simultaneously, limited only by available memory.
 
 
 项目依赖： Emgu.CV, Emgu.CV.Bitmp, fo-dicom, Newtonsoft.Json
